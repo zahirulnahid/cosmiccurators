@@ -27,4 +27,4 @@ Our UI and AR VR technology will help people to learn with better experience.and
 - Run flutter run in 'cosmic_curators'
 Or
 
-Check the release. 
+Check the [release page.](https://github.com/zahirulnahid/cosmiccurators/releases/tag/v1.0.0](https://github.com/zahirulnahid/cosmiccurators/tags)
